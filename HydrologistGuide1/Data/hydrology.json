@@ -1,0 +1,50 @@
+﻿[
+  {
+    "Name": "Ніл",
+    "LengthKm": 6650,
+    "FlowsIntoName": "Середземне море",
+    "MouthType": "Sea",
+    "AnnualRunoffKm3": 84,
+    "BasinAreaKm2": 3349000
+  },
+  {
+    "Name": "Амазонка",
+    "LengthKm": 6400,
+    "FlowsIntoName": "Атлантичний океан",
+    "MouthType": "Ocean",
+    "AnnualRunoffKm3": 6590,
+    "BasinAreaKm2": 7050000
+  },
+  {
+    "Name": "Янцзи",
+    "LengthKm": 6300,
+    "FlowsIntoName": "Східнокитайське море",
+    "MouthType": "Sea",
+    "AnnualRunoffKm3": 960,
+    "BasinAreaKm2": 1808500
+  },
+  {
+    "Name": "Дніпро",
+    "LengthKm": 2201,
+    "FlowsIntoName": "Чорне море",
+    "MouthType": "Sea",
+    "AnnualRunoffKm3": 53.5,
+    "BasinAreaKm2": 504000
+  },
+  {
+    "Name": "Дунай",
+    "LengthKm": 2850,
+    "FlowsIntoName": "Чорне море",
+    "MouthType": "Sea",
+    "AnnualRunoffKm3": 203,
+    "BasinAreaKm2": 817000
+  },
+  {
+    "Name": "Волга",
+    "LengthKm": 3530,
+    "FlowsIntoName": "Каспійське море",
+    "MouthType": "Lake",
+    "AnnualRunoffKm3": 254,
+    "BasinAreaKm2": 1360000
+  }
+]

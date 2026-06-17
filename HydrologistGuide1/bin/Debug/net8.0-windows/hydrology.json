@@ -1,0 +1,192 @@
+[
+  {
+    "Id": "fddc5be7-9e9c-4bdf-b452-8b8378f1b670",
+    "Name": "\u041D\u0456\u043B",
+    "LengthKm": 6650,
+    "FlowsIntoName": "\u0421\u0435\u0440\u0435\u0434\u0437\u0435\u043C\u043D\u0435 \u043C\u043E\u0440\u0435",
+    "MouthType": 1,
+    "AnnualRunoffKm3": 84,
+    "BasinAreaKm2": 3349000,
+    "ParentRiverId": null
+  },
+  {
+    "Id": "6b440a55-f791-49a2-b8b6-7111354f33bc",
+    "Name": "\u0410\u043C\u0430\u0437\u043E\u043D\u043A\u0430",
+    "LengthKm": 6400,
+    "FlowsIntoName": "\u0410\u0442\u043B\u0430\u043D\u0442\u0438\u0447\u043D\u0438\u0439 \u043E\u043A\u0435\u0430\u043D",
+    "MouthType": 3,
+    "AnnualRunoffKm3": 6590,
+    "BasinAreaKm2": 7050000,
+    "ParentRiverId": null
+  },
+  {
+    "Id": "3b68c1be-4658-4d88-80fd-77cd8c4dfc80",
+    "Name": "\u041C\u0456\u0441\u0441\u0456\u0441\u0456\u043F\u0456",
+    "LengthKm": 3730,
+    "FlowsIntoName": "\u041C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u044C\u043A\u0430 \u0437\u0430\u0442\u043E\u043A\u0430",
+    "MouthType": 4,
+    "AnnualRunoffKm3": 580,
+    "BasinAreaKm2": 2980000,
+    "ParentRiverId": null
+  },
+  {
+    "Id": "f91408aa-acfe-4898-beea-9339558abad0",
+    "Name": "\u041C\u0456\u0441\u0441\u0443\u0440\u0456",
+    "LengthKm": 3767,
+    "FlowsIntoName": "\u041C\u0456\u0441\u0441\u0456\u0441\u0456\u043F\u0456",
+    "MouthType": 0,
+    "AnnualRunoffKm3": 86,
+    "BasinAreaKm2": 1371000,
+    "ParentRiverId": "3b68c1be-4658-4d88-80fd-77cd8c4dfc80"
+  },
+  {
+    "Id": "4f5d4a89-1e0c-4447-a75a-88c661e5249f",
+    "Name": "\u041E\u0433\u0430\u0439\u043E",
+    "LengthKm": 1579,
+    "FlowsIntoName": "\u041C\u0456\u0441\u0441\u0456\u0441\u0456\u043F\u0456",
+    "MouthType": 0,
+    "AnnualRunoffKm3": 230,
+    "BasinAreaKm2": 490600,
+    "ParentRiverId": "3b68c1be-4658-4d88-80fd-77cd8c4dfc80"
+  },
+  {
+    "Id": "1faf65fa-6d95-4240-a585-8da215de29b8",
+    "Name": "\u042F\u043D\u0446\u0437\u0438",
+    "LengthKm": 6300,
+    "FlowsIntoName": "\u0421\u0445\u0456\u0434\u043D\u043E\u043A\u0438\u0442\u0430\u0439\u0441\u044C\u043A\u0435 \u043C\u043E\u0440\u0435",
+    "MouthType": 1,
+    "AnnualRunoffKm3": 960,
+    "BasinAreaKm2": 1808500,
+    "ParentRiverId": null
+  },
+  {
+    "Id": "a6cfd0a8-8985-4eb5-bcd8-73b1ffeba85d",
+    "Name": "\u0425\u0443\u0430\u043D\u0445\u0435",
+    "LengthKm": 5464,
+    "FlowsIntoName": "\u0411\u043E\u0445\u0430\u0439\u0441\u044C\u043A\u0430 \u0437\u0430\u0442\u043E\u043A\u0430",
+    "MouthType": 4,
+    "AnnualRunoffKm3": 58,
+    "BasinAreaKm2": 752000,
+    "ParentRiverId": null
+  },
+  {
+    "Id": "10e4a403-6d27-48b6-bbe0-58096a5a24e9",
+    "Name": "\u0414\u0443\u043D\u0430\u0439",
+    "LengthKm": 2850,
+    "FlowsIntoName": "\u0427\u043E\u0440\u043D\u0435 \u043C\u043E\u0440\u0435",
+    "MouthType": 1,
+    "AnnualRunoffKm3": 203,
+    "BasinAreaKm2": 817000,
+    "ParentRiverId": null
+  },
+  {
+    "Id": "9e8b39a9-8cb8-48e4-a74e-5dec03f06a62",
+    "Name": "\u0414\u043D\u0456\u043F\u0440\u043E",
+    "LengthKm": 2201,
+    "FlowsIntoName": "\u0427\u043E\u0440\u043D\u0435 \u043C\u043E\u0440\u0435",
+    "MouthType": 1,
+    "AnnualRunoffKm3": 53.5,
+    "BasinAreaKm2": 504000,
+    "ParentRiverId": null
+  },
+  {
+    "Id": "a3e46f40-db07-4fe5-81ac-76f6539dd3e8",
+    "Name": "\u0414\u0435\u0441\u043D\u0430",
+    "LengthKm": 1130,
+    "FlowsIntoName": "\u0414\u043D\u0456\u043F\u0440\u043E",
+    "MouthType": 0,
+    "AnnualRunoffKm3": 11.4,
+    "BasinAreaKm2": 88900,
+    "ParentRiverId": "9e8b39a9-8cb8-48e4-a74e-5dec03f06a62"
+  },
+  {
+    "Id": "d6da96f4-0f25-490b-b7a6-3f4edb5c7f28",
+    "Name": "\u041F\u0440\u0438\u043F\u0027\u044F\u0442\u044C",
+    "LengthKm": 761,
+    "FlowsIntoName": "\u0414\u043D\u0456\u043F\u0440\u043E",
+    "MouthType": 0,
+    "AnnualRunoffKm3": 14.5,
+    "BasinAreaKm2": 121000,
+    "ParentRiverId": "9e8b39a9-8cb8-48e4-a74e-5dec03f06a62"
+  },
+  {
+    "Id": "0ca1664b-ac20-4c3b-8560-1d1f41c1bad7",
+    "Name": "\u041A\u043E\u043D\u0433\u043E",
+    "LengthKm": 4700,
+    "FlowsIntoName": "\u0410\u0442\u043B\u0430\u043D\u0442\u0438\u0447\u043D\u0438\u0439 \u043E\u043A\u0435\u0430\u043D",
+    "MouthType": 3,
+    "AnnualRunoffKm3": 1300,
+    "BasinAreaKm2": 3680000,
+    "ParentRiverId": null
+  },
+  {
+    "Id": "8d53bfc6-165c-4a0a-aa85-30ee76f1332c",
+    "Name": "\u041D\u0456\u0433\u0435\u0440",
+    "LengthKm": 4180,
+    "FlowsIntoName": "\u0413\u0432\u0456\u043D\u0435\u0439\u0441\u044C\u043A\u0430 \u0437\u0430\u0442\u043E\u043A\u0430",
+    "MouthType": 4,
+    "AnnualRunoffKm3": 177,
+    "BasinAreaKm2": 2117000,
+    "ParentRiverId": null
+  },
+  {
+    "Id": "641d95fa-5614-43bd-bfd8-38960c7f4eaa",
+    "Name": "\u0413\u0430\u043D\u0433",
+    "LengthKm": 2525,
+    "FlowsIntoName": "\u0411\u0435\u043D\u0433\u0430\u043B\u044C\u0441\u044C\u043A\u0430 \u0437\u0430\u0442\u043E\u043A\u0430",
+    "MouthType": 4,
+    "AnnualRunoffKm3": 380,
+    "BasinAreaKm2": 1080000,
+    "ParentRiverId": null
+  },
+  {
+    "Id": "223268e1-e1fa-41ac-b665-ab8acccb91ca",
+    "Name": "\u0411\u0440\u0430\u0445\u043C\u0430\u043F\u0443\u0442\u0440\u0430",
+    "LengthKm": 2900,
+    "FlowsIntoName": "\u0413\u0430\u043D\u0433",
+    "MouthType": 0,
+    "AnnualRunoffKm3": 700,
+    "BasinAreaKm2": 651000,
+    "ParentRiverId": "641d95fa-5614-43bd-bfd8-38960c7f4eaa"
+  },
+  {
+    "Id": "005f5830-cb83-4021-8af7-9adb2eda4f9a",
+    "Name": "\u0412\u043E\u043B\u0433\u0430",
+    "LengthKm": 3530,
+    "FlowsIntoName": "\u041A\u0430\u0441\u043F\u0456\u0439\u0441\u044C\u043A\u0435 \u043C\u043E\u0440\u0435",
+    "MouthType": 2,
+    "AnnualRunoffKm3": 254,
+    "BasinAreaKm2": 1360000,
+    "ParentRiverId": null
+  },
+  {
+    "Id": "29d1418d-8e18-49ae-9683-aad6c8988195",
+    "Name": "\u041A\u0430\u043C\u0430",
+    "LengthKm": 1805,
+    "FlowsIntoName": "\u0412\u043E\u043B\u0433\u0430",
+    "MouthType": 0,
+    "AnnualRunoffKm3": 117,
+    "BasinAreaKm2": 507000,
+    "ParentRiverId": "005f5830-cb83-4021-8af7-9adb2eda4f9a"
+  },
+  {
+    "Id": "37d8e61c-0638-4897-8111-26780653218c",
+    "Name": "\u041E\u043A\u0430",
+    "LengthKm": 1500,
+    "FlowsIntoName": "\u0412\u043E\u043B\u0433\u0430",
+    "MouthType": 0,
+    "AnnualRunoffKm3": 40,
+    "BasinAreaKm2": 245000,
+    "ParentRiverId": "005f5830-cb83-4021-8af7-9adb2eda4f9a"
+  },
+  {
+    "Id": "478b0459-08bd-429d-af54-a86621a730e1",
+    "Name": "\u0420\u0435\u0439\u043D",
+    "LengthKm": 1233,
+    "FlowsIntoName": "\u041F\u0456\u0432\u043D\u0456\u0447\u043D\u0435 \u043C\u043E\u0440\u0435",
+    "MouthType": 1,
+    "AnnualRunoffKm3": 75,
+    "BasinAreaKm2": 185000,
+    "ParentRiverId": null
+  }
+]
